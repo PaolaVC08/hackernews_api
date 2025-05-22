@@ -8,3 +8,6 @@ django-cors-headers==3.5.0
 django-health-check
 python-decouple
 setuptools
+uvicorn==0.30.1
+dj-database-url==2.2.0
+gunicorn==22.0.0
